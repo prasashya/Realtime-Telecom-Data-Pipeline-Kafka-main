@@ -506,32 +506,21 @@ realtime-telecom-pipeline/
 
 ## 📸 Screenshots
 
-### Dashboard Overview & Live Analytics Tab
-<img width="2815" height="1466" alt="image" src="https://github.com/user-attachments/assets/c8df0dab-0684-4c26-babd-427963b7456a" />
-<img width="2837" height="1434" alt="image" src="https://github.com/user-attachments/assets/d6a19be9-2316-4474-bfba-4e46ed411bfa" />
-<img width="2863" height="1454" alt="image" src="https://github.com/user-attachments/assets/7c4bb6e7-beac-41d5-8f94-1f13168e5681" />
-<img width="2861" height="1449" alt="image" src="https://github.com/user-attachments/assets/4229d042-2a70-4e77-8eeb-8f9de10dd2a7" />
-<img width="2869" height="1443" alt="image" src="https://github.com/user-attachments/assets/90b878db-dcb7-4a2c-b1a3-aab3e65df3da" />
-<img width="2856" height="1445" alt="image" src="https://github.com/user-attachments/assets/d4d0a1d9-2986-4c78-a148-3a98e7397ec0" />
-<img width="2868" height="1432" alt="image" src="https://github.com/user-attachments/assets/9d386c69-56e4-40c8-8ea4-d506f5977b96" />
+### Live Analytics & Dashboard Overview
+![Dashboard Overview](screenshots/01_dashboard_overview.png)
 
-### Architecture Diagram
-<img width="2872" height="1454" alt="image" src="https://github.com/user-attachments/assets/9db8c681-be60-4548-8ee8-e90765917879" />
-<img width="2852" height="1422" alt="image" src="https://github.com/user-attachments/assets/39a56986-4493-4371-b81e-c475cbb85e4e" />
-<img width="2837" height="1438" alt="image" src="https://github.com/user-attachments/assets/d77f8611-b994-4fc1-bfff-609a7dd5f4f4" />
-<img width="2856" height="1439" alt="image" src="https://github.com/user-attachments/assets/f78bcd26-41ea-4330-b670-e18eef3a6715" />
+### Real-Time Streaming Visualizations & Metrics
+![Live Analytics Charts](screenshots/02_live_analytics_charts.png)
 
-### Documentation Tab
-<img width="2850" height="1437" alt="image" src="https://github.com/user-attachments/assets/21f9f1d4-172b-4754-a166-a9913e9fa11a" />
-<img width="2871" height="1375" alt="image" src="https://github.com/user-attachments/assets/f2f366c4-475f-4b22-a4c7-8a5e744d4b57" />
-<img width="2821" height="1420" alt="image" src="https://github.com/user-attachments/assets/ccb3d0d0-3a47-4cf2-884a-be52c7b5ddaf" />
-<img width="2830" height="1414" alt="image" src="https://github.com/user-attachments/assets/2679e14d-70e1-44d2-b81a-181e27110988" />
-<img width="2860" height="1437" alt="image" src="https://github.com/user-attachments/assets/d392efd1-b35d-4a3a-86a1-0ef5602a1d78" />
+### Architecture & Tech Stack
+![Architecture Diagram](screenshots/03_architecture_diagram.png)
 
-### Backed Runing Code
-<img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/bd26154f-e3ae-45b2-a61c-1e6655cd0032" />
-<img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/f5597f59-45d1-4de8-9107-e610ef302b57" />
-<img width="940" height="381" alt="image" src="https://github.com/user-attachments/assets/363d5ac3-6f56-472c-b264-ce7dc48b023f" />
+### End-to-End Pipeline Architecture Flow
+![System Architecture Flow](screenshots/05_system_architecture_flow.png)
+
+### Project Documentation & Author Attribution
+![Project Documentation](screenshots/04_creator_and_documentation.png)
+
 
 
 ---
