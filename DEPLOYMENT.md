@@ -73,7 +73,7 @@ SUPABASE_PASSWORD = "Ratan@181998"
 
 1. Click "Deploy!"
 2. Wait 2-3 minutes for deployment
-3. Your app will be live at: `https://your-app-name.streamlit.app/`
+3. Your app will be live at: `https://realtime-telecom-data-pipeline-kafka-main-ce8mpq6bsak2c4wzqr7k.streamlit.app/`
 
 ---
 

@@ -42,7 +42,7 @@
 
 ## 🌐🎬 Live Demo
 🚀 **Try it now:**
-- **Project Demo** - https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/
+- **Project Demo** - https://realtime-telecom-data-pipeline-kafka-main-ce8mpq6bsak2c4wzqr7k.streamlit.app/
 - *Experience the real-time analytics dashboard with live data streaming from Supabase!*
 
 ---
@@ -665,7 +665,7 @@ SOFTWARE.
 
 ### Project Links
 
-- 🌐 **Live Demo**: [Streamlit Cloud](https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/)
+- 🌐 **Live Demo**: [Streamlit Cloud](https://realtime-telecom-data-pipeline-kafka-main-ce8mpq6bsak2c4wzqr7k.streamlit.app/)
 - 📖 **Documentation**: [GitHub Repository](https://github.com/prasashya/Realtime-Telecom-Data-Pipeline-Kafka-main)
 - 🐛 **Issue Tracker**: [GitHub Issues](https://github.com/prasashya/Realtime-Telecom-Data-Pipeline-Kafka-main/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/prasashya/Realtime-Telecom-Data-Pipeline-Kafka-main/discussions)
