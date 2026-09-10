@@ -59,7 +59,9 @@ Kafka Producer → Kafka Broker → Consumer → PostgreSQL/Supabase
 
 ## 👤 Author
 
-**Ratnesh Singh** - Data Engineer
+**Prasashya Anshul** - Data Engineer
+- GitHub: [@prasashya](https://github.com/prasashya)
+- Email: prasashyaanshul@gmail.com
 
 ---
 *Part of the Kafka-Spark-Redshift Streaming Pipeline Project*

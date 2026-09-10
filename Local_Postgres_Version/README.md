@@ -147,4 +147,4 @@ docker exec -it postgres psql -U admin -d telecom_db -c "SELECT * FROM telecom_d
 This project is licensed under the MIT License.
 
 ---
-**Created by Ratnesh Singh** | Data Engineer Portfolio Project
+**Created by Prasashya Anshul** | Data Engineer Portfolio Project

@@ -5,13 +5,10 @@
 ### Step 1: Initialize Git Repository
 
 ```bash
-cd C:\Users\rattu\Downloads\kafka-spark-redshift-streaming
-
-# Initialize Git (if not already done)
 git init
 
 # Add remote repository
-git remote add origin https://github.com/Ratnesh-181998/realtime-telecom-pipeline.git
+git remote add origin https://github.com/prasashya/Realtime-Telecom-Data-Pipeline-Kafka-main.git
 ```
 
 ### Step 2: Configure Git LFS
@@ -56,7 +53,7 @@ git push -u origin main
 
 1. Go to [share.streamlit.io](https://share.streamlit.io)
 2. Click "New app"
-3. Select your repository: `Ratnesh-181998/realtime-telecom-pipeline`
+3. Select your repository: `prasashya/Realtime-Telecom-Data-Pipeline-Kafka-main`
 4. Set main file path: `Supabase_cloud-dashboard/cloud_streamlit_app.py`
 5. Click "Advanced settings"
 
@@ -197,6 +194,6 @@ git push
 ## Support
 
 If you encounter issues:
-1. Check [GitHub Issues](https://github.com/Ratnesh-181998/realtime-telecom-pipeline/issues)
+1. Check [GitHub Issues](https://github.com/prasashya/Realtime-Telecom-Data-Pipeline-Kafka-main/issues)
 2. Review [Streamlit Docs](https://docs.streamlit.io)
-3. Contact: rattudacsit2021gate@gmail.com
+3. Contact: prasashyaanshul@gmail.com

@@ -200,7 +200,7 @@ with st.sidebar:
     
     st.markdown("---")
     st.markdown("### 👤 Created By")
-    st.markdown("**Ratnesh Singh**")
+    st.markdown("**Prasashya Anshul**")
     st.markdown("*Data Engineer*")
 
 # Main Content
@@ -369,7 +369,7 @@ st.markdown("""
 <div style='text-align: center; color: #888; padding: 20px;'>
     <p>🚀 <strong>Kafka-Spark-PostgreSQL Streaming Pipeline</strong></p>
     <p>Real-time data visualization powered by Streamlit</p>
-    <p style='font-size: 0.8em;'>Built by <strong>Ratnesh Singh</strong> | Data Engineer Portfolio Project</p>
+    <p style='font-size: 0.8em;'>Built by <strong>Prasashya Anshul</strong> | Data Engineer Portfolio Project</p>
 </div>
 """, unsafe_allow_html=True)
 

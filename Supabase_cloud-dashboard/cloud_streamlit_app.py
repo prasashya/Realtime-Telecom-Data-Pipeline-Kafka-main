@@ -269,9 +269,9 @@ with st.sidebar:
     
     st.markdown("---")
     st.markdown("### 👤 Created By")
-    st.markdown("**Ratnesh Singh**")
-    st.markdown("*Data Scientist*")
-    st.markdown("[GitHub](https://github.com/Ratnesh-181998) | [LinkedIn](https://www.linkedin.com/in/ratneshkumar1998/)")
+    st.markdown("**Prasashya Anshul**")
+    st.markdown("*Data Engineer*")
+    st.markdown("[GitHub](https://github.com/prasashya) | [Email](mailto:prasashyaanshul@gmail.com)")
 
 # Main Title with animation and author info
 st.markdown("""
@@ -285,10 +285,10 @@ st.markdown("""
                     box-shadow: 0 4px 15px rgba(0, 212, 255, 0.2);
                     min-width: 200px;">
             <p style="margin: 0; font-size: 1.1rem; color: #00d4ff; font-weight: 700; letter-spacing: 0.5px; white-space: nowrap;">
-                Ratnesh Singh
+                Prasashya Anshul
             </p>
             <p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #00ff88; font-weight: 500; white-space: nowrap;">
-                Data Scientist
+                Data Engineer
             </p>
             <p style="margin: 2px 0 0 0; font-size: 0.75rem; color: #aaa; font-style: italic; white-space: nowrap;">
                 4+ Years Experience
@@ -665,8 +665,8 @@ with tab2:
         
         st.markdown("#### 📦 Installation")
         st.code("""# Clone repository
-git clone https://github.com/Ratnesh-181998/kafka-streaming.git
-cd kafka-streaming
+git clone https://github.com/prasashya/Realtime-Telecom-Data-Pipeline-Kafka-main.git
+cd Realtime-Telecom-Data-Pipeline-Kafka-main
 
 # Install dependencies
 pip install -r requirements.txt
@@ -992,16 +992,15 @@ with tab3:
     
     with col2:
         st.markdown("""
-        ### Ratnesh Singh
-        **Data Scientist** 
+        ### Prasashya Anshul
+        **Data Engineer** 
         
         I'm passionate about making complex data systems understandable and accessible. 
         This project demonstrates how real companies handle massive amounts of data in real-time.
         
         **Want to connect?**
-        - 🔗 [LinkedIn](https://www.linkedin.com/in/ratneshkumar1998/) - Let's network!
-        - 💻 [GitHub](https://github.com/Ratnesh-181998) - See more projects
-        - 📧 rattudacsit2021gate@gmail.com - Say hello!
+        - 💻 [GitHub](https://github.com/prasashya) - See more projects
+        - 📧 prasashyaanshul@gmail.com - Say hello!
         
         *Feel free to reach out if you have questions about this project or data engineering in general!*
         """)
@@ -1013,7 +1012,7 @@ st.markdown("""
     <p style="font-size: 1.2rem;">🚀 <strong>Real-Time Telecom Data Pipelin Using Kafkae,Spark and Redshift</strong></p>
     <p>From phone calls to beautiful charts - in milliseconds!</p>
     <p style='font-size: 0.9rem; margin-top: 15px;'>
-        Built with ❤️ by <strong>Ratnesh Singh</strong> | Data Scientist
+        Built with ❤️ by <strong>Prasashya Anshul</strong> | Data Engineer
     </p>
 </div>
 """, unsafe_allow_html=True)
